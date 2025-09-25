@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/cacead6c216b239aa6c57575fbb5dc7a_MIT3-15x-th.jpg
 file_size: 36418
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'Close-up of an electric circuit board. (Courtesy of [Sridhar Srinivasan](https://www.flickr.com/photos/ssri/2897295914/)
     on Flickr. License: CC BY-NC-SA.)'

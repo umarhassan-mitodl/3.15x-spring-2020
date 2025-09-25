@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 45a963b1-ec5b-46cb-9b90-a2ce2c918847
+  name: I. Electronic Materials and Devices
+  pageRef: /external-resources/i-electronic-materials-and-devices_45a963b1-ec5b-46cb-9b90-a2ce2c918847
+  weight: 10
+- identifier: 835c838a-ebc2-4a4a-b846-679692abb420
+  name: II. Optical Materials and Devices
+  pageRef: /external-resources/ii-optical-materials-and-devices_835c838a-ebc2-4a4a-b846-679692abb420
+  weight: 20
+- identifier: 71f64eb6-34a7-4be9-99fe-23f3bebe923c
+  name: III. Magnetic Materials and Devices
+  pageRef: /external-resources/iii-magnetic-materials-and-devices_71f64eb6-34a7-4be9-99fe-23f3bebe923c
+  weight: 30
